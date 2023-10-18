@@ -1,10 +1,2 @@
-# NatFer33.github.io
-README 101
-What is it?
-A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about.
-Why should I make it?
-It's an easy way to answer questions that your audience will likely have regarding how to install and use your project and also how to collaborate with you.
-Who should make it?
-Anyone who is working on a programming project, especially if you want others to use it or contribute.
-When should I make it?
-Definitely before you show a project to other people or make it public. You might want to get into the habit of making it the first file you create in a new project.
+News Center
+Welcome to the greatest resource for up-to-date and pertinent information! On our digital coast, you'll be inundated with news about everyone from the most well-known figures to heartwarming tales that demand to be shared. Since our goal is to provide you with an extensive comprehension of global events, we emphasize honesty and a range of perspectives in our methodology. Prepare for a dive additionally into the world of information, where each click will take you one step closer to comprehending the full scope of the historical events that have created our time. Come explore the informational streams online with us as we explore the global pulses!
